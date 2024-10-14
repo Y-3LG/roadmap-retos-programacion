@@ -1,7 +1,7 @@
 //All Operators
 
 /*Assignment
-             Operators*/
+             Operator*/
 
 //Binary Operator
 let addition = 80 + 10;
